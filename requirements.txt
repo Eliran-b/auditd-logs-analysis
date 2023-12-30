@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.0
+pydantic==2.5.3
